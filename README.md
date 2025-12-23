@@ -9,7 +9,7 @@ git config --global user.email "emailkamu@gmail.com"
 git config --global --list
 
 3.
-git add .
+git add README.md
 
 4.
 git commit -m "first commit"
