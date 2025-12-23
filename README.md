@@ -16,3 +16,7 @@ git commit -m "first commit"
 
 5.
 git push -u origin main
+
+Catatan : setiap perubahan git tidak otomatis mengirim perubahan tapi harus melewati
+Edit → Add → Commit → Push
+maksudnya Edit ubah file → Add pilih perubahan → Commit simpan → Push kirim ke GitHub
